@@ -3,7 +3,7 @@ docker run hello-world
 
 # Go pretty print format
 export FORMAT='ID:{{.ID}}\nImage:{{.Image}}\nCommand:{{.Command}}\nCreated:{{.CreatedAt}}\nStatus:{{.Status}}\nPorts:{{.Ports}}\nNames:{{.Names}}\n'
-\n echo $FORMAT
+<br> echo $FORMAT
 
 # 1. images
 docker images
