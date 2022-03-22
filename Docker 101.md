@@ -9,7 +9,7 @@ echo $FORMAT
 docker images
 
 ## Running containers from images
-- terminal interactive
+###### terminal interactive
 docker run -ti ubuntu:latest bash
 ls
 ###### see the standard distr
