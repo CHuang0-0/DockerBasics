@@ -1,5 +1,5 @@
 ## Hello World
-<!-- docker run hello-world -->
+docker run hello-world
 
 ## Go pretty print format
 export FORMAT='ID:{{.ID}}\nImage:{{.Image}}\nCommand:{{.Command}}\nCreated:{{.CreatedAt}}\nStatus:{{.Status}}\nPorts:{{.Ports}}\nNames:{{.Names}}\n'
