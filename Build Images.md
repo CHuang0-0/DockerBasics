@@ -84,7 +84,7 @@ WORKDIR /path/
 USER celia
 ```
 
-## Golden Img Problem
+## Multi project
 ##### include multiple FROM statements
 ##### preserve the ability to create a reproducible build
 
